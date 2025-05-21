@@ -63,6 +63,7 @@ from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
 ```
+
 ## Output:
 
 ### Encoding:
